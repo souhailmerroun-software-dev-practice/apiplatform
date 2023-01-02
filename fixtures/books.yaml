@@ -1,4 +1,4 @@
 App\Entity\Book:
-    book_{1..10}:
+    book_{1..100}:
         title: <sentence(4)>
         description: <text()>
